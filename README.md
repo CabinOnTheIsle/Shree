@@ -11,7 +11,7 @@ single line command that should be able to run on the Terminal and you will be g
 
 
 Enter this line in Terminal: 
-git clone https://github.com/CabinOnTheIsle/shreya.git && cd Shreya && pip install -r requirements.txt
+git clone https://github.com/CabinOnTheIsle/shreya.git && cd shreya && pip install -r requirements.txt
 
 Then, Enter this line to use the first script:
 python3 MainScripts.py
