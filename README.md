@@ -11,21 +11,22 @@ To run the python scripts, there are a few modules and libraries that are needed
 single line command that should be able to run on the Terminal and you will be good to go!
 
 
-__()Enter this line in Terminal:__  
+__(.)Enter this line in Terminal:__  
 ```
 git clone https://github.com/CabinOnTheIsle/shreya.git && cd shreya && pip install -r requirements.txt
 ```
-__()Then, Enter this line to use the first script:__
+__(.)Then, Enter this line to use the first script:__
 ```
 python3 MainScripts.py
 ```
-__()The bonus script is for later and is as follows:__
+__(.)The bonus script is for later and is as follows:__
 ```
 python3 Doja.py
 ```
 *To use Terminal, remember that 'control^' + 'C' will end the running programe as it is a keyboard interrupt.
 Incase anything goes wrong, please contact me and I will be happy to assist you.*
 
-__Happy Birthday!
-Yours truely,
+__Happy Birthday!__
+
+__Yours truely,
 CabinOnTheIsle__
