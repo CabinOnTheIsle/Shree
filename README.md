@@ -3,8 +3,8 @@
 
 In this repository, there includes 2 scripts that are to be used. This includes:
 
-__MainScripts.py__
-Doja.py
+__MainScripts.py__\n
+__Doja.py__
 
 To run the python scripts, there are a few modules and libraries that are needed. For this I shall help you get them by a 
 single line command that should be able to run on the Terminal and you will be good to go!
